@@ -1,4 +1,4 @@
-module chamber(chamberSize = [36,25,10], grid = [6,4], griddW = 1, edgedW = 4, height = 10){
+module chamber(chamberSize = [36,25,10], grid = [6,4], griddW = 1, edgedW = 4){
     
     geneFrameL = chamberSize[0];
     geneFrameW = chamberSize[1];
