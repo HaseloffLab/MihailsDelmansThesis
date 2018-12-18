@@ -18,3 +18,7 @@ The `model.py` contains the code of the simulation.
 The `sequences` folder contains the plasmid sequences described in the __Section 2.2__ of the thesis.
 
 The plasmid maps can be viewed at [Benchling](https://benchling.com/mdelmans/f_/CmOYZVD9-engineering-morphogenesis-of-marchantia-polymorpha-gemmae/)
+
+## Imaging growth chamber
+
+The `imagingGrowthChamber` folder cointains [OpenSCAD](http://www.openscad.org/) file with the parametric design, and 6x4 implementation of the growth chamber used for imaging of the gemmae.
